@@ -1,6 +1,9 @@
 # ZIGIT-part2
 
 This is part 2 = front with my own backend.
+
+**email: test@test.com, password: Test1234**
+
 Backend - Node JS. 
 Fronend - React . 
 NOTES:
