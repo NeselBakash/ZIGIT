@@ -1,7 +1,8 @@
 # ZIGIT-part2
 
 This is part 2 = front with my own backend.
-Loh in info:
+
+Log in info:
 **email: test@test.com, password: Test1234**
 
 Backend - Node JS. 
